@@ -54,7 +54,7 @@
     "file-loader": "0.8.5",
     "html-webpack-plugin": "2.14.0",
     "json-loader": "0.5.4",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "material-ui": "^0.15.0-alpha.2",
     "node-sass": "^3.2.0",
     "null-loader": "^0.1.1",
